@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "services": "Services",
+    "team": "Our Team",
+    "blogs": "Blogs",
+    "contact": "Contact Us",
+    "bookAppointment": "Book Appointment",
+    "search": "Search",
+    "searchPlaceholder": "Search..."
+  },
+  "hero": {
+    "readMore": "Read More"
+  },
+  "team": {
+    "title": "Meet Our Team",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  },
+  "clients": {
+    "title": "Our Clients",
+    "testimonials": "Testimonials"
+  },
+  "footer": {
+    "subscribe": "Subscribe",
+    "emailPlaceholder": "Email",
+    "contacts": "Contacts",
+    "about": "About",
+    "strategy": "Our Strategy",
+    "advantages": "Our Advantages",
+    "responsibility": "Social Responsibility",
+    "services": "Our Services",
+    "copyright": "© 2024. All rights reserved.",
+    "success": "Successfully subscribed!",
+    "error": "Error subscribing. Please try again.",
+    "duplicate": "This email is already subscribed.",
+    "invalid": "Please enter a valid email address."
+  }
+}
+
